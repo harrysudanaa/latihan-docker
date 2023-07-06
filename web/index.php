@@ -53,7 +53,7 @@
 <body>
     <div class="container">
         <div class="wrapper">
-            <h1>Identitas Diri</h1>
+            <h1>Personal Identity</h1>
 
             <div class="info">
                 <span>Nama:</span> Komang Harry Sudana
